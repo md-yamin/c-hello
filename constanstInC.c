@@ -19,5 +19,5 @@ int main(){
     printf("This is the declared constant %f" ,PI);
 
 
-    return;
+    return 0;
 }
