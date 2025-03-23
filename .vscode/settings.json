@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "*.embeddedhtml": "html",
+        "typeinfo": "c",
+        "stdio.h": "c",
+        "array": "c",
+        "bitset": "c",
+        "initializer_list": "c",
+        "regex": "c",
+        "utility": "c",
+        "valarray": "c",
+        "string": "c",
+        "string.h": "c",
+        "ostream": "cpp",
+        "random": "c"
+    }
+}
